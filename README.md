@@ -98,7 +98,7 @@ plainwhite:
 
 **Excerpts**
 
-Excerpts can be enabled by adding the following line to your `_config.yml`
+Excerpts can be enabled by adding the following line to your `_config.yml` 
 
 ```yaml
 show_excerpts: true
